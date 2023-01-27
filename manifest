@@ -1,0 +1,15 @@
+: 1
+name: lyra-xstd
+version: 0.1.0-a.0.z
+summary: lyra-xstd C++ library
+license: GPL-3.0-or-later ; GNU General Public License v3.0 or later.
+
+description-file: README.md
+url: https://example.org/lyra-xstd
+email: lyrahgames@mailbox.org
+#build-error-email: lyrahgames@mailbox.org
+
+depends: * build2 >= 0.15.0
+depends: * bpkg >= 0.15.0
+
+#depends: libhello ^1.0.0

@@ -1,0 +1,3 @@
+import libs = lyra-xstd%lib{lyra-xstd}
+
+exe{basics}: {hxx ixx txx cxx}{**} $libs testscript{**}

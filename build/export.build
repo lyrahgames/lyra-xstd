@@ -1,0 +1,6 @@
+$out_root/
+{
+  include lyra/xstd/
+}
+
+export $out_root/lyra/xstd/$import.target

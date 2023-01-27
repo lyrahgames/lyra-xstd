@@ -1,0 +1,7 @@
+project = lyra-xstd
+
+using version
+using config
+using test
+using install
+using dist
